@@ -10,4 +10,4 @@
  <a href="https://www.instagram.com/berkeercetinn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkeercetin" height="30" width="40" /></a>
 </p>
 
-##  This is my old account: berkeercetin </h1>
+##  It is my old account: berkeercetin </h1>
